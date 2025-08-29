@@ -89,7 +89,6 @@ Learn more at [Geo-Institute DIGGS Project](https://www.geoinstitute.org/special
 Projects should include:
 - Working code/application
 - Documentation
-- Demo video or presentation
 - Clear explanation of DIGGS data usage
 
 ## 🏅 Awards & Recognition
