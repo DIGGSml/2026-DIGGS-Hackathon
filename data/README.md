@@ -22,26 +22,6 @@ This directory will contain:
 - Validation schemas
 - Documentation of schema elements
 
-## File Naming Convention
-```
-[project_type]_[test_type]_[size].xml
-```
-
-Example:
-- `bridge_spt_small.xml`
-- `building_lab_tests_large.xml`
-- `road_cpt_medium.xml`
-
-## Database Schema Overview
-
-Main tables (preliminary):
-- `projects` - Project metadata
-- `borings` - Boring locations and depths
-- `samples` - Sample information
-- `lab_tests` - Laboratory test results
-- `field_tests` - In-situ test results
-- `soil_layers` - Interpreted soil profiles
-
 ---
 
 *Check back on January 5, 2026 for the full dataset!*
