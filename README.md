@@ -38,10 +38,6 @@ Connect DIGGS data with other engineering disciplines. Bridge geotechnical data 
 │   ├── /sample_diggs_files
 │   ├── diggs_database.db
 │   └── /schemas
-├── /examples
-│   ├── /python_starter
-│   ├── /javascript_starter
-│   └── /data_parsing_examples
 ├── /resources
 │   └── /documentation
 └── /submissions
@@ -50,7 +46,7 @@ Connect DIGGS data with other engineering disciplines. Bridge geotechnical data 
 ## 🚀 Quick Start
 
 1. **Choose Your Theme**: Pick one or combine multiple themes
-2. **Review Resources**: Check out the `/examples` and `/resources` folders
+2. **Review Resources**: Check out the `/resources` folders
 3. **Access Data**: Starting January 5, explore the DIGGS files and SQLite database
 4. **Build Something Amazing**: Let your creativity shine!
 
@@ -78,7 +74,6 @@ Learn more at [Geo-Institute DIGGS Project](https://www.geoinstitute.org/special
 
 - **Weekly Office Hours**: Every week with the DIGGS Team (schedule TBA)
 - **Documentation**: See `/resources/documentation`
-- **Example Code**: Check `/examples` for starter templates
 - **DIGGS Specification**: Available in `/resources`
 - **Community**: Join our discussions and Q&A sessions
 
